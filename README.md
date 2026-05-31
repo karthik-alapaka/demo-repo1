@@ -6,3 +6,4 @@ i add some important tools
 
 
 
+add one more line in the git profile
